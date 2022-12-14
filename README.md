@@ -1,5 +1,5 @@
-### Project Title
-Stock Performance prediction
+### Stock Performance prediction
+
 
 #### Executive summary
 Introduction, Purpose, Key points of the report, key risks
