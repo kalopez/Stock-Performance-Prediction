@@ -30,6 +30,7 @@ Daily stock price data of S&P 500 companies. Compiled in sp500_stocks.csv
 The following methods are being used:
 
 ARIMA
+
 XGBoost was also tried but results were poor and so it wasn't included here. 
 
 #### Results
