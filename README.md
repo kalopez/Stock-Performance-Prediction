@@ -35,5 +35,5 @@ XGBoost was also tried but results were poor and so it wasn't included here.
 #### Results
 The ALK stock performed the best. In second place, was UAL. In third place was LUV.
 
-##### Contact and Further Information
+#### Contact and Further Information
 This project was completed by Katherine Lopez
