@@ -6,3 +6,6 @@ temp/
 
 #ignore all files in data folder
 Data/
+
+#other files to ignore
+.DS_Store
